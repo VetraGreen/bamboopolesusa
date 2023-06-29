@@ -54,7 +54,6 @@ body {
 
   .dropdown:hover .dropdown-content {
     display: block;
-    cursor: pointer;
   }
 
   .dropdown-item {

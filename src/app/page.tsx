@@ -6,7 +6,7 @@ export default function Home() {
     <div>
         <Navbar />
         <hr className=""/>
-        <div className="flex justify-center items-center min-h-[80vh]">Coming Soon..</div>
+        <div className="flex justify-center items-center min-h-[90vh]">Coming Soon..</div>
         <Footer />
     </div>
   )
