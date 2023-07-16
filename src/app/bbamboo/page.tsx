@@ -7,7 +7,7 @@ export default function bbamboo() {
     <div>
       <Navbar />
       <hr className="h-6"/>
-      <div className="p-12 flex justify-center text-5xl">
+      <div className="p-12 flex justify-center text-2xl">
         Black Bamboo Poles
       </div>
       <BBamboo />

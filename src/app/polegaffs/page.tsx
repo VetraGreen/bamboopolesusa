@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Navbar />
       <hr className="h-6"/>
-      <div className="p-12 flex justify-center text-5xl">
+      <div className="p-12 flex justify-center text-2xl">
         Calcutta Bamboo Poles & Gaffs
       </div>
       <PoleGaffs />
