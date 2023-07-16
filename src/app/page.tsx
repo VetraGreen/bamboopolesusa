@@ -8,7 +8,7 @@ export default function Home() {
         <hr className=""/>
         <div className="flex justify-center items-center min-h-[80vh] text-xl flex-col">
           <div>
-            We are Vetra Technologies. We have been dping bamboo long enough for it be an intrgral part of our lives.
+            We are Vetra Technologies. We have been deleloping bamboo long enough for it be an intrgral part of our lives.
           </div>
           <div>
           We have sound understanding of different types of bamboo utility wise .

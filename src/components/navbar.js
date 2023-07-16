@@ -4,8 +4,9 @@ export default function Navbar() {
     return (
         <div className="text-black bg-[#bcf729] text-xl">
             <div className="flex justify-between">
-                <div className="flex justify-left p-6 ml-20 flex-row">
-                    <Image src="/assets/logo.jpeg" alt="logo" height={100} width={100} />
+                <div className="flex justify-left items-center p-2 ml-20 flex-row">
+                    {/* <Image src="/assets/logo.png" alt="logo" height={200} width={200} /> */}
+                    <span className="text-4xl">V</span>etra Green Technologies
                 </div>
                 <div className="flex justify-center items-center flex-row p-6">
                     <div className="mx-10 underlineEffect">
