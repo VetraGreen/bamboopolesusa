@@ -6,7 +6,7 @@ export default function Navbar() {
             <div className="flex justify-between">
                 <div className="flex justify-left items-center p-2 ml-20 flex-row">
                     {/* <Image src="/assets/logo.png" alt="logo" height={200} width={200} /> */}
-                    <span className="text-4xl">V</span>etra Green Technologies
+                    <Image src="/assets/logoV.png" className="translate-x-4 -translate-y-2" alt="V" height={80} width={80}/>etra Green Technologies
                 </div>
                 <div className="flex justify-center items-center flex-row p-6">
                     <div className="mx-10 underlineEffect">
